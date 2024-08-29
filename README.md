@@ -17,7 +17,7 @@ I'm a  web developer from Hungary with a strong focus on building dynamic and hi
 
 ### 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vomitorius&show_icons=true&theme=radical)](https://github.com/vomitorius)
 
 ### 🌐 Let's Connect!
 
