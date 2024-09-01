@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Csaba
 
-I'm a  web developer from Hungary with a strong focus on building dynamic and high-performance web applications. I love turning ideas into reality through code, and I'm constantly exploring new technologies to expand my skill set.
+I'm a  web developer from Hungary.
 
 ### 🛠️ Technologies & Skills
 
