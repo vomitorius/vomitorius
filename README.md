@@ -5,7 +5,7 @@ I'm a  web developer from Hungary.
 ### 🛠️ Technologies & Skills
 
 - **Backend:** PHP, Laravel, Node.js
-- **Frontend:** JavaScript, Vue.js
+- **Frontend:** JavaScript, Vue.js, Tailwindcss
 - **Tools & Platforms:** Git, REST APIs, MySQL, WordPress and more
 - **Currently Learning:** [.Net & C#]
 
