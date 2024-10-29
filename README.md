@@ -7,7 +7,7 @@ I'm a  web developer from Hungary.
 - **Backend:** PHP, Laravel, Node.js
 - **Frontend:** JavaScript, Vue.js, Tailwindcss
 - **Tools & Platforms:** Git, REST APIs, MySQL, WordPress and more
-- **Currently Learning:** [.Net & C#]
+- **Currently Learning:** [AI prompt engineering .Net & C#]
 
 ### 🌱 What I'm Working On
 
