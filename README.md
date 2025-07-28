@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Csaba
 
-I'm a  web developer from Hungary.
+I'm a developer from Hungary.
 
 ### 🛠️ Technologies & Skills
 
