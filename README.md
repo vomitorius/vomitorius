@@ -7,13 +7,7 @@ I'm a developer from Hungary.
 - **Backend:** PHP, Laravel, Node.js
 - **Frontend:** JavaScript, Vue.js, Tailwindcss
 - **Tools & Platforms:** Git, MySQL, WordPress and more
-- **Currently Learning:** [AI prompt engineering .Net & C#]
-
-### 🌱 What I'm Working On
-
-- Developing robust backend solutions with Laravel and Node.js
-- Creating interactive and responsive user interfaces with Vue.js
-- Building full-stack applications that are scalable and easy to maintain
+- **Currently Learning:** [AI .Net & C#]
 
 ### 📈 GitHub Stats
 
